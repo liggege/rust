@@ -1,0 +1,6 @@
+[package]
+name = "work2"
+version = "0.1.0"
+authors = ["ovit.lcw <1921152000@qq.com>"]
+
+[dependencies]
